@@ -20,3 +20,10 @@ To run the code in this repository, you need the following Python libraries:
 *Scikit-learn
 
 You can find a more detailed analysis of the results in the Coding Pdf.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+The Titanic dataset is available on Kaggle and was used for educational purposes in this project.
+Inspiration for this project came from various machine learning tutorials and courses.
